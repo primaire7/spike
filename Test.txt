@@ -3,3 +3,5 @@ Test.txt
 Good
 
 It seems working -J.
+
+Branch test
